@@ -1,0 +1,20 @@
+{
+  "name": "dbvisualization",
+  "description": "do DataBase Visualization",
+  "version": "0.0.0",
+  "homepage": "https://github.com/zegang/dbvisualization.git",
+  "license": "PERSONAL",
+  "author":"ZEGANG LUO <zeluo@cisco.com>",
+  "private": false,
+  "dependencies": {
+    "angular": "1.4.x",
+    "angular-mocks": "1.4.x",
+    "jquery": "~2.1.1",
+    "bootstrap": "~3.1.1",
+    "angular-route": "1.4.x",
+    "angular-resource": "1.4.x",
+    "angular-animate": "1.4.x",
+	"angular-material": "0.10.1",
+	"jquery-ui": "1.11.4"
+  }
+}
